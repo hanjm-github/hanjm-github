@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Ubuntu System
-📫 How to reach me: hanjm2008@naver.com
-🔭 I’m currently studying on Beomseo High School
+- 🌱 I’m currently learning Ubuntu System
+- 📫 How to reach me: hanjm2008@naver.com
+- 🔭 I’m currently studying on Beomseo High School
